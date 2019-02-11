@@ -33,7 +33,7 @@ Changes the current K8s config to the chosen one.
 ```
 $ kswap v
 ```
-Displays kswap version.
+Displays `kswap` version.
 
 ```
 $ kswap h
